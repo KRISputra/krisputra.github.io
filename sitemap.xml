@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://krisputra.ppj.my/aktiviti/index.html</loc>
+    
+    <lastmod>2016-12-08T17:32:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://krisputra.ppj.my/mengenai/index.html</loc>
+    
+    <lastmod>2016-12-08T17:31:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://krisputra.ppj.my/galeri/index.html</loc>
     
     <lastmod>2016-12-08T17:18:36.000Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://krisputra.ppj.my/pengerusi/index.html</loc>
     
     <lastmod>2016-12-08T14:59:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://krisputra.ppj.my/mengenai/index.html</loc>
-    
-    <lastmod>2016-12-08T14:39:06.000Z</lastmod>
     
   </url>
   
