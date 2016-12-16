@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://krisputra.ppj.my/mengenai/index.html</loc>
+    
+    <lastmod>2016-12-16T18:06:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://krisputra.ppj.my/aktiviti/index.html</loc>
     
-    <lastmod>2016-12-16T09:26:34.000Z</lastmod>
+    <lastmod>2016-12-16T17:11:13.000Z</lastmod>
     
   </url>
   
@@ -96,13 +103,6 @@
     <loc>http://krisputra.ppj.my/jawatankuasa/setiausaha/index.html</loc>
     
     <lastmod>2016-12-10T08:49:00.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://krisputra.ppj.my/mengenai/index.html</loc>
-    
-    <lastmod>2016-12-08T17:31:46.000Z</lastmod>
     
   </url>
   
